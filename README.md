@@ -18,6 +18,16 @@
 
 * Home Persistance (You keep your files!)
 
+# Roadmap
+
+* Ability To Backup And Restore The Data.
+
+* More Desktop Environments
+
+* Add More Apps
+
+* Write A Documentation
+
 # Use
 
 it's very simple to install, there is a pseudo-graphical installer.
